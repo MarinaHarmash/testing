@@ -8,3 +8,5 @@ add some new text
 
 fix2 changes
 the best new feature
+
+test cloning
